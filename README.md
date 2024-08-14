@@ -4,7 +4,7 @@ This repository contains the Horse Action Recognition Dataset, which focuses on 
 
 ## Dataset Overview
 
-The dataset includes video sequences of horses performing three different actions:
+The dataset includes image sequences of horses performing three different actions:
 
 - **Walk**: A four-beat gait where the horse moves forward one leg at a time.
 - **Trot**: A two-beat gait where diagonal pairs of legs move simultaneously.
