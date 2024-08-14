@@ -22,43 +22,46 @@ The dataset can be downloaded from the following link:
 
 The dataset is organized as follows:
 
+The dataset is organized as follows:
+
 /horseactionrecognition  
-  /walkpic_mosaic  
-    /walk0001  
-      0000001.jpg  
-      0000002.jpg  
-      ...  
-    /walk0002  
-      0000001.jpg  
-      0000002.jpg  
-      ...  
-    ...  
-  /trotpic_mosaic  
-  /canter_mosaic  
-  /crop_walkpic  
-  /crop_trotpic  
-  /crop_canterpic  
-  /crop_walkpic_noback  
-  /crop_trotpic_noback  
-  /crop_canterpic_noback  
-  /crop_walkpic_noobst  
-  /crop_trotpic_noobst  
-  /crop_canterpic_noobst  
-  /crop_walkpic_nobacklastobst  
-  /crop_trotpic_nobacklastobst  
-  /crop_canterpic_nobacklastobst  
-  /walk_front_rgb  
-  /trot_front_rgb  
-  /canter_front_rgb  
-  /DLCcsv  
-    /DLCforwalk  
-      /walk0001  
-        0000001.csv  
-        0000002.csv  
+    /walkpic_mosaic  
+        /walk0001  
+            0000001.jpg  
+            0000002.jpg  
+            ...  
+        /walk0002  
+            0000001.jpg  
+            0000002.jpg  
+            ...  
         ...  
-    /DLCfortrot  
-    /DLCforcanter  
-  /DLCcropcsv  
-  /DLCcropcsv_noback  
-  /DLCcropcsv_nobackobst
+    /trotpic_mosaic  
+    /canter_mosaic  
+    /crop_walkpic  
+    /crop_trotpic  
+    /crop_canterpic  
+    /crop_walkpic_noback  
+    /crop_trotpic_noback  
+    /crop_canterpic_noback  
+    /crop_walkpic_noobst  
+    /crop_trotpic_noobst  
+    /crop_canterpic_noobst  
+    /crop_walkpic_nobacklastobst  
+    /crop_trotpic_nobacklastobst  
+    /crop_canterpic_nobacklastobst  
+    /walk_front_rgb  
+    /trot_front_rgb  
+    /canter_front_rgb  
+    /DLCcsv  
+        /DLCforwalk  
+            /walk0001  
+                0000001.csv  
+                0000002.csv  
+                ...  
+        /DLCfortrot  
+        /DLCforcanter  
+    /DLCcropcsv  
+    /DLCcropcsv_noback  
+    /DLCcropcsv_nobackobst
+
 
