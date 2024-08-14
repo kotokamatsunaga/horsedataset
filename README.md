@@ -23,7 +23,7 @@ The dataset can be downloaded from the following link:
 The dataset is organized as follows:
 
 The dataset is organized as follows:
-
+'''
 /horseactionrecognition  
     /walkpic_mosaic  
         /walk0001  
@@ -63,5 +63,5 @@ The dataset is organized as follows:
     /DLCcropcsv  
     /DLCcropcsv_noback  
     /DLCcropcsv_nobackobst
-
+'''
 
