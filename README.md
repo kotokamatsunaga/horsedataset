@@ -57,7 +57,7 @@ If you use this dataset in your research, please cite it as follows:
   author={Kotoka Matsunaga and Hideo Saito},
   journal={arXiv〇〇},
   year={2024}
-}```
-
+}
+```
 ## Contact
 For any questions or inquiries, please contact kotoka@keio.jp.
