@@ -21,45 +21,8 @@ The dataset can be downloaded from the following link:
 ## File Structure
 
 The dataset is organized as follows:
-<blockquote>
-/horseactionrecognition<br>
-    /walkpic_mosaic<br>
-        /walk0001<br>
-            0000001.jpg<br>
-            0000002.jpg<br>
-            ...<br>
-        /walk0002<br>
-            0000001.jpg<br>
-            0000002.jpg<br>
-            ...<br>
-        ...<br>
-    /trotpic_mosaic<br>
-    /canter_mosaic<br>
-    /crop_walkpic<br>
-    /crop_trotpic<br>
-    /crop_canterpic<br>
-    /crop_walkpic_noback<br>
-    /crop_trotpic_noback<br>
-    /crop_canterpic_noback<br>
-    /crop_walkpic_noobst<br>
-    /crop_trotpic_noobst<br>
-    /crop_canterpic_noobst<br>
-    /crop_walkpic_nobacklastobst<br>
-    /crop_trotpic_nobacklastobst<br>
-    /crop_canterpic_nobacklastobst<br>
-    /walk_front_rgb<br>
-    /trot_front_rgb<br>
-    /canter_front_rgb<br>
-    /DLCcsv<br>
-        /DLCforwalk<br>
-            /walk0001<br>
-                0000001.csv<br>
-                0000002.csv<br>
-                ...<br>
-        /DLCfortrot<br>
-        /DLCforcanter<br>
-    /DLCcropcsv<br>
-    /DLCcropcsv_noback<br>
-    /DLCcropcsv_nobackobst<br>
-</blockquote>
+### 〇〇pic_mosaic (where 〇〇 can be walk, trot, or canter)
+
+This directory contains a sequence of images extracted from videos at 24fps. The subfolders within are separated by video, for example, the `walk0001` folder contains a sequence of images derived from the same video, meaning the images within have a temporal relationship. However, there is no temporal relationship between images in different folders.
+
 
