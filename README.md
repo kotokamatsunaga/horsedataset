@@ -21,47 +21,45 @@ The dataset can be downloaded from the following link:
 ## File Structure
 
 The dataset is organized as follows:
-
-The dataset is organized as follows:
-'''
-/horseactionrecognition  
-    /walkpic_mosaic  
-        /walk0001  
-            0000001.jpg  
-            0000002.jpg  
-            ...  
-        /walk0002  
-            0000001.jpg  
-            0000002.jpg  
-            ...  
-        ...  
-    /trotpic_mosaic  
-    /canter_mosaic  
-    /crop_walkpic  
-    /crop_trotpic  
-    /crop_canterpic  
-    /crop_walkpic_noback  
-    /crop_trotpic_noback  
-    /crop_canterpic_noback  
-    /crop_walkpic_noobst  
-    /crop_trotpic_noobst  
-    /crop_canterpic_noobst  
-    /crop_walkpic_nobacklastobst  
-    /crop_trotpic_nobacklastobst  
-    /crop_canterpic_nobacklastobst  
-    /walk_front_rgb  
-    /trot_front_rgb  
-    /canter_front_rgb  
-    /DLCcsv  
-        /DLCforwalk  
-            /walk0001  
-                0000001.csv  
-                0000002.csv  
-                ...  
-        /DLCfortrot  
-        /DLCforcanter  
-    /DLCcropcsv  
-    /DLCcropcsv_noback  
-    /DLCcropcsv_nobackobst
-'''
+<blockquote>
+/horseactionrecognition<br>
+    /walkpic_mosaic<br>
+        /walk0001<br>
+            0000001.jpg<br>
+            0000002.jpg<br>
+            ...<br>
+        /walk0002<br>
+            0000001.jpg<br>
+            0000002.jpg<br>
+            ...<br>
+        ...<br>
+    /trotpic_mosaic<br>
+    /canter_mosaic<br>
+    /crop_walkpic<br>
+    /crop_trotpic<br>
+    /crop_canterpic<br>
+    /crop_walkpic_noback<br>
+    /crop_trotpic_noback<br>
+    /crop_canterpic_noback<br>
+    /crop_walkpic_noobst<br>
+    /crop_trotpic_noobst<br>
+    /crop_canterpic_noobst<br>
+    /crop_walkpic_nobacklastobst<br>
+    /crop_trotpic_nobacklastobst<br>
+    /crop_canterpic_nobacklastobst<br>
+    /walk_front_rgb<br>
+    /trot_front_rgb<br>
+    /canter_front_rgb<br>
+    /DLCcsv<br>
+        /DLCforwalk<br>
+            /walk0001<br>
+                0000001.csv<br>
+                0000002.csv<br>
+                ...<br>
+        /DLCfortrot<br>
+        /DLCforcanter<br>
+    /DLCcropcsv<br>
+    /DLCcropcsv_noback<br>
+    /DLCcropcsv_nobackobst<br>
+</blockquote>
 
