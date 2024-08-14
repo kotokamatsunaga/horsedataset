@@ -53,11 +53,13 @@ These folders are derived from crop_〇〇pic, retaining only the sequences wher
 If you use this dataset in your research, please cite it as follows:
 
 ```bibtex
-@article{kotoka2024horse,
-  title={Comparison and Evaluation of Action Recognition Methods in Equestrian Videos},
-  author={Kotoka Matsunaga and Hideo Saito},
-  journal={Forthcoming},
-  year={2024}
+@inproceedings{
+matsunaga2024comparison,
+title={Comparison and Evaluation of Action Recognition Methods in Equestrian Videos},
+author={Kotoka Matsunaga and Hideo Saito},
+booktitle={7th Int. Workshop on Multimedia Content Analysis in Sports (MMSports'24) @ ACM Multimedia 2024},
+year={2024},
+url={https://openreview.net/forum?id=SJPtl9gpkS}
 }
 ```
 
