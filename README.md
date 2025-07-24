@@ -16,7 +16,7 @@ Each folder within the dataset is named according to the action label and contai
 
 The dataset can be downloaded from the following link:
 
-[Download Horse Action Recognition Dataset](https://keio.box.com/s/dbxcdlhe4a6ugibur7hse12anyslcr65)
+[Download Horse Action Recognition Dataset](https://keio.box.com/s/w3dzqm59elyae722w1xbibzl5z5c5rz9)
 
 ## File Structure
 
